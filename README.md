@@ -1,4 +1,4 @@
-Use Backbone.js on Node.js
+Use Backbone.js with Node.js
 ====================
 
 Creative-common book about how to create Backbone.js applications that work on both client and server with Node.js.
