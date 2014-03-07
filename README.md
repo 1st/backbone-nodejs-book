@@ -1,6 +1,6 @@
-Run Backbone.js applications on client and server with Node.js
+Use Backbone.js on Node.js
 ====================
 
-Creative-common book "Create Backbone.js applications that work on both client and Node.js server"
+Creative-common book about how to create Backbone.js applications that work on both client and server with Node.js.
 
 This book inspired by [Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals) by [Addy Osmani](https://twitter.com/addyosmani).
