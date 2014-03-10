@@ -6,7 +6,7 @@ Creative-common book about how to create Backbone.js applications that work on b
 This book inspired by [Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals) by [Addy Osmani](https://twitter.com/addyosmani).
 
 In this book you can learn:
- * why JavaScript-only development good for you
+ * why JavaScript-only development is good for you
  * how to setup Node.js
  * how to create good project structure for both client-side and server-side
  * how to create Backbone.js models, collections and views to work on both clien-side and server-side
