@@ -10,7 +10,7 @@ In this book you can learn:
  * how to setup Node.js
  * how to create good project structure for both client-side and server-side
  * how to create Backbone.js models, collections and views to work on both clien-side and server-side
- * how to render pages on server-side for the first user request and Search Engines crawlers
+ * how to render pages on server-side for the first user request and for the Google crawler
  * why RESTful communication between client and server helps your application speedup response time and save server resourses
  * how to create modules to create big applications
  * how to write tests and maintain your applications
@@ -19,4 +19,4 @@ In this book you can learn:
 
 You are welcome to help me improve this book. Create your fork and create pull request with new changes.
 
-- [Anton Danilchenko](https://github.com/1st)
+-- [Anton Danilchenko](https://github.com/1st)
