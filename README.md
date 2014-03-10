@@ -15,6 +15,17 @@ In this book you can learn:
  * how to create modules to create big applications
  * how to write tests and maintain your applications
 
+
+About author
+----------
+
+My name is Anton Danilchenko. I'm experienced web developer with more than 10 years experience.
+
+Last 4 years I worked as Python web developer. Before this I worked as PHP developer about 8 years.
+
+But my first website that I build in 2001 year was based on JavaScript only. Without dynamical part on server side. And after a long time I am back to JavaScript as my main tool to build modern web applications with new power!
+
+
 How to contribute
 ----------
 
