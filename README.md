@@ -19,7 +19,7 @@ In this book you can learn:
 About author
 ----------
 
-My name is Anton Danilchenko. I'm experienced web developer with more than 10 years experience.
+My name is Anton Danilchenko. I'm passionate web developer with more than 10 years experience.
 
 Last 4 years I worked as Python web developer. Before this I worked as PHP developer about 8 years.
 
