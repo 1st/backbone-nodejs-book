@@ -17,6 +17,6 @@ In this book you can learn:
 
 ----------
 
-You are welcome to help me improve this book. To propose your changes to this book you can create an issue or create pull request. It's fun and easy!
+You are welcome to help me improve this book. To propose your changes to this book you can [create new issue](https://github.com/1st/backbone-nodejs-book/issues) or [create pull request](https://help.github.com/articles/creating-a-pull-request). It's fun and easy!
 
 -- [Anton Danilchenko](https://github.com/1st)
