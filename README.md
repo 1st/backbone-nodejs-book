@@ -15,6 +15,7 @@ In this book you can learn:
  * how to create modules to create big applications
  * how to write tests and maintain your applications
 
+How to contribute
 ----------
 
 You are welcome to help me improve this book. To propose your changes to this book you can [create new issue](https://github.com/1st/backbone-nodejs-book/issues) or [create pull request](https://help.github.com/articles/creating-a-pull-request). It's fun and easy!
