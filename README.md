@@ -17,6 +17,6 @@ In this book you can learn:
 
 ----------
 
-You are welcome to help me improve this book. Create your fork and create pull request with new changes.
+You are welcome to help me improve this book. To propose your changes to this book you can create an issue or create pull request. It's fun and easy!
 
 -- [Anton Danilchenko](https://github.com/1st)
