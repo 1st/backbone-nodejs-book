@@ -16,6 +16,12 @@ In this book you can learn:
  * how to write tests and maintain your applications
 
 
+Download book
+----------
+
+Book available in epub, mobi, pdf and rtf formats. Available in [book/download](book/download).
+
+
 About author
 ----------
 
